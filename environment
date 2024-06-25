@@ -1,7 +1,7 @@
 DC_NAME="unsigned"
 DC_RACK="unsigned"
 DC_IP="127.0.0.1"
-INTERVAL="10s"
+INTERVAL="30s"
 HOSTNAME=""
 POSTGRES_USER="postgres"
 POSTGRES_PASSWORD="postgres"
